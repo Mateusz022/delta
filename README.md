@@ -5,19 +5,19 @@
 # Introduction
 - Program is very usefull as a calculator to calculate delta and elements. 
 - It can be useful at school to check if we calculate correctly without mistakes
-- This program can be very attractive who are not the best at math
+- This program can be very attractive for people who are not the best at Math
 
 # Technology
 - Console Application in Visual Studio
 - This delta calculator is wriiten in c# language
 
 # Setup
-- To run this project all you have to do is install visual studio and then copy the code below
-
-
+- To run this project all you have to do is installing Visual Studio and then copy the code below
 
 
 # Code
+
+
 
      using System;
 
